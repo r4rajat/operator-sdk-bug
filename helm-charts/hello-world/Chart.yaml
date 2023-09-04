@@ -1,9 +1,0 @@
-apiVersion: v2
-appVersion: latest
-dependencies:
-- name: grafana
-  repository: file://./charts/grafana
-  version: 6.59.0
-description: A Helm chart for Kubernetes
-name: hello-world
-version: 0.1.0
