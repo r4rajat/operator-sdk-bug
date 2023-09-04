@@ -2,6 +2,8 @@
 
 Sample app to demo a Red Hat `operator-sdk` bug on OpenShift.
 
+Bug Report on Upstream: https://github.com/operator-framework/operator-sdk/issues/6557
+
 ## Environment
 
 ```
