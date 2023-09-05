@@ -183,7 +183,7 @@ gossipPortName: gossip
 ## ref: http://kubernetes.io/docs/user-guide/services/
 ##
 service:
-  enabled: true
+  enabled: false
   type: ClusterIP
   port: 80
   targetPort: 3000
